@@ -1,0 +1,13 @@
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\bin\Debug\ElasticsearchForm.exe.config
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\bin\Debug\ElasticsearchForm.exe
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\bin\Debug\ElasticsearchForm.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.Form1.resources
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.Properties.Resources.resources
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.exe
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Casper\Desktop\GitHub Projects\ElasticsearchApp\src\ElasticsearchForm\obj\Debug\ElasticsearchForm.csproj.CopyComplete
