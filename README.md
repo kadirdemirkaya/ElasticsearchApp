@@ -1,59 +1,59 @@
 
 # ElasticSearchAPI
 
-Bu proje basit bir api ve form projelerinden oluşan bir elastic search temalı projedir.
+This project is an elastic search themed project consisting of a simple API and form projects.
 
 
 
 
-## Özellikler ve İçerik
+## Features and Content
 
-Bu projede de Api projesi BackEnd, Form projesi Client olarak kullanılmıştır.
+In this project, the Api project was used as BackEnd and the Form project was used as Client.
 
-Ürün üzerinde CRUD işlemleri \
-Loglama \
-Kategori ve Ülke filtreleme \
-Harf ve desen ile otomatik tamamlama \
-Repository ve Servisler 
+CRUD operations on the product\
+Logging\
+Category and Country filtering\
+Autocomplete with letters and patterns\
+Repository and Services
 
 - ElasticsearchAPI
     Food Controller:
-    - `GET api/Food/ApplySeedData`: SeedData uygular.
-    - `GET api/Food/AllProduct`: Tüm ürünleri getirir.
-    - `POST api/Food/AddProduct`: Ürün ekler.
-    - `DELETE api/Food/DeleteProduct`: Ürünleri siler.
-    - `GET api/Food/GetProduct`: Id bazlı ürün getirir.
-    - `PUT api/Food/UpdateProduct`: Ürün güncelleme yapar.
-    - `GET api/Food/AutoCompleteWithSearch`: Bir metin içinde verilen kelimenin baş harfini veya baş harflerini içeren kelimeleri bulmayı amaçlar.
-    - `GET api/Food/AutoComplete`: Belirli bir deseni içeren kelimeleri bulmayı sağlar.
-    - `GET api/Food/CountryFilter`: Şehire göre filtreleme yapar.
-    - `GET api/Food/CategoryFilter`: Kategoriye göre filtreleme yapar.
+    - `GET api/Food/ApplySeedData`: Applies SeedData.
+    - `GET api/Food/AllProduct`: Gets all products.
+    - `POST api/Food/AddProduct`: Adds products.
+    - `DELETE api/Food/DeleteProduct`: Deletes products.
+    - `GET api/Food/GetProduct`: Gets product based on ID.
+    - `PUT api/Food/UpdateProduct`: The product updates.
+    - `GET api/Food/AutoCompleteWithSearch`: It aims to find the initial letter or words containing the initials of the given word in a text.
+    - `GET api/Food/AutoComplete`: Allows finding words containing a certain pattern.
+    - `GET api/Food/CountryFilter`: Filters by city.
+    - `GET api/Food/CategoryFilter`: Filters by category.
 
 - ElasticsearchForm
     
 
-## Yükleme 
+## Loading
 
-İlk önce projeyi çekin 
+First pull the project
 
-```bash 
+```bash
  git clone https://github.com/kadirdemirkaya/ElasticsearchApp.git
 ```
 
-Uzantılı yerdeki bilgileri değiştirin 
+Change the information in the extension location
 
-```bash 
+```bash
  appsettings.json
 ```
 
-API Projesini ayağa kaldırın
+Get the API Project up and running
 
-```bash 
+```bash
  dotnet run
 ```
 
 
-## Form Resmi
+## Form Image
 
 ![ElasticApp](https://github.com/kadirdemirkaya/ElasticsearchApp/assets/126807887/4b1d653e-484f-4f8a-a6cd-3fcd67fcc9d3)
 
